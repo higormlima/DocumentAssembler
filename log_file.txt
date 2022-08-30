@@ -1,0 +1,26 @@
+2022/08/30 01:02:48 : Aplicação iniciada
+2022/08/30 01:02:48 : Inicializando exemplos
+2022/08/30 01:02:48 : Iniciando preorder print!
+2022/08/30 01:02:48 : Preorder print finalizado! - Tempo transcorrido: 0ms
+2022/08/30 01:02:48 : Iniciando preorder print!
+2022/08/30 01:02:48 : Acessou nó do tipo Branch 'a': Profundidade - 0
+2022/08/30 01:02:48 : Acessou nó do tipo Branch 'b': Profundidade - 1
+2022/08/30 01:02:48 : Acessou nó do tipo Folha 'e': Profundidade - 2
+2022/08/30 01:02:48 : Acessou nó do tipo Folha 'f': Profundidade - 2
+2022/08/30 01:02:48 : Acessou nó do tipo Folha 'c': Profundidade - 1
+2022/08/30 01:02:48 : Acessou nó do tipo Folha 'd': Profundidade - 1
+2022/08/30 01:02:48 : Preorder print finalizado! - Tempo transcorrido: 2ms
+2022/08/30 01:02:48 : Bylevel preorder print!
+2022/08/30 01:02:48 : Bylevel print finalizado! - Tempo transcorrido: 0ms
+2022/08/30 01:02:48 : Bylevel preorder print!
+2022/08/30 01:02:48 : Acessou nível 0 do documento
+2022/08/30 01:02:48 :   Acessou nó do tipo Branch a
+2022/08/30 01:02:48 : Acessou nível 1 do documento
+2022/08/30 01:02:48 :   Acessou nó do tipo Branch b
+2022/08/30 01:02:48 :   Acessou nó do tipo Folha c
+2022/08/30 01:02:48 :   Acessou nó do tipo Folha d
+2022/08/30 01:02:48 : Acessou nível 2 do documento
+2022/08/30 01:02:48 :   Acessou nó do tipo Folha e
+2022/08/30 01:02:48 :   Acessou nó do tipo Folha f
+2022/08/30 01:02:48 : Bylevel print finalizado! - Tempo transcorrido: 0ms
+2022/08/30 01:02:48 : Finalizando exemplos
